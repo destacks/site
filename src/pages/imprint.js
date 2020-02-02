@@ -28,7 +28,7 @@ const Imprint = () => (
       <br />
       Telefon: +49-15784323299
       <br />
-      E-Mail: <a href="mailto:am@destacks.com">am@destacks.com</a>
+      E-Mail: <a href="mailto:info@destacks.com">info@destacks.com</a>
       <br />
     </p>
     <p>
