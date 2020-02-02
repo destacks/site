@@ -26,7 +26,7 @@ const Imprint = () => (
     <p>
       <strong>Kontakt:</strong>
       <br />
-      Telefon: %2B49-015784323299
+      Telefon: +49-15784323299
       <br />
       E-Mail: <a href="mailto:am@destacks.com">am@destacks.com</a>
       <br />
