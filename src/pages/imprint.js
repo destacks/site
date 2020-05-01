@@ -10,7 +10,7 @@ const Imprint = () => (
     <h1>Impressum</h1>
     <p>Angaben gemäß § 5 TMG</p>
     <p>
-      Alexis Michaltsis Software Development - destacks.com
+      Alexis Michaltsis Software Development － destacks.com
       <br />
       Karl-Marx-Str. 282
       <br />
