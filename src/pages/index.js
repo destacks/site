@@ -8,7 +8,20 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <p>Infos follow soonish!</p>
+    <p>More infos follow soonish!</p>
+    <h1>Contact</h1>
+    <p>
+      Alexis Michaltsis
+      <br />
+      Phone: +49 30 62933291
+      <br />
+      E-Mail: <a href="mailto:info@destacks.com">info@destacks.com</a>
+      <br />
+      GitHub: <a href="https://github.com/4lm">github.com/4lm</a>
+      <br />
+      Twitter: <a href="https://twitter.com/4lmic">twitter.com/4lmic</a>
+      <br />
+    </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
