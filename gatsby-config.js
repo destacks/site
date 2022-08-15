@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Alexis Michaltsis Software Development – destacks.com`,
-    description: `Alexis Michaltsis Software Development – destacks.com`,
+    title: `Software Development Services – destacks.com`,
+    description: `Software Development Services – destacks.com`,
     author: `@4lm`,
   },
   plugins: [
