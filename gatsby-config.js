@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Software Development Services – destacks.com`,
-    description: `Software Development Services – destacks.com`,
+    title: `Destacks | Software Development Services `,
+    description: `Destacks | Software Development Services `,
     author: `@4lm`,
   },
   plugins: [
