@@ -9,14 +9,25 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Contact</h1>
-    <p>
-      <br />
-      Phone: +49 30 62933291
-      <br />
-      E-Mail: <a href="mailto:info@destacks.com">info@destacks.com</a>
-      <br />
-      GitHub: <a href="https://github.com/destacks">github.com/destacks</a>
-      <br />
+    <p style={{ maxWidth: "250px", marginBottom: "2rem" }}>
+      <table>
+        <tr>
+          <td>Phone:</td>
+          <td style={{ textAlign: "right" }}>+49 30 62933291</td>
+        </tr>
+        <tr>
+          <td>Email:</td>
+          <td style={{ textAlign: "right" }}>
+            <a href="mailto:info@destacks.com">info@destacks.com</a>
+          </td>
+        </tr>
+        <tr>
+          <td>GitHub:</td>
+          <td style={{ textAlign: "right" }}>
+            <a href="https://github.com/destacks">github.com/destacks</a>
+          </td>
+        </tr>
+      </table>
     </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
