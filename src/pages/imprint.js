@@ -12,9 +12,9 @@ const Imprint = () => (
     <p>
       Destacks | Alexis Michaltsis Software Development Services
       <br />
-      Karl-Marx-Str. 282
+      Archenholdstr. 37
       <br />
-      12057 Berlin <br />
+      10315 Berlin <br />
     </p>
     <p>
       {" "}
@@ -35,9 +35,9 @@ const Imprint = () => (
       <strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong>
       <br />
       Alexis Michaltsis <br />
-      Karl-Marx-Str. 282
+      Archenholdstr. 37
       <br />
-      12057 Berlin <br />
+      10315 Berlin <br />
     </p>{" "}
     <p>
       <strong>Haftungsausschluss: </strong>
